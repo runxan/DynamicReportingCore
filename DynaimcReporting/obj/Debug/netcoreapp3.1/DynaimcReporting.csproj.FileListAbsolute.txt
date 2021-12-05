@@ -1,0 +1,323 @@
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfoInputs.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfo.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CoreCompileInputs.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.MvcApplicationPartsAssemblyInfo.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.Manifest.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.xml
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\scopedcss\bundle\DynaimcReporting.styles.css
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.input.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.output.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorCoreGenerate.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.dll
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\libman.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.exe
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.deps.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.dev.json
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CopyComplete
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.genruntimeconfig.cache
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Create.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Delete.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Details.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Edit.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Index.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\SetParameters.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\ViewReports.cshtml.g.cs
+D:\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csprojAssemblyReference.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\libman.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.exe
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.deps.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.dev.json
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csprojAssemblyReference.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfoInputs.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfo.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CoreCompileInputs.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.MvcApplicationPartsAssemblyInfo.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.Manifest.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.xml
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\scopedcss\bundle\DynaimcReporting.styles.css
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.input.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.output.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorCoreGenerate.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Create.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Delete.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Details.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Edit.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Index.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\SetParameters.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\ViewReports.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cache
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cs
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CopyComplete
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.dll
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.pdb
+C:\SSD USE\GenTech\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.genruntimeconfig.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\libman.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.exe
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.deps.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.runtimeconfig.dev.json
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.MvcApplicationPartsAssemblyInfo.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorAssemblyInfo.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfoInputs.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.AssemblyInfo.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.input.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.TagHelpers.output.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorCoreGenerate.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Create.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Delete.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Details.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Edit.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\Index.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\SetParameters.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\ReportMasters\ViewReports.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.RazorTargetAssemblyInfo.cs
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.Views.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CopyComplete
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.Manifest.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\staticwebassets\DynaimcReporting.StaticWebAssets.xml
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.pdb
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.AssemblyReference.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.csproj.CoreCompileInputs.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\scopedcss\bundle\DynaimcReporting.styles.css
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.genruntimeconfig.cache
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\SSD USE\DynaimcReporting\DynaimcReporting\obj\Debug\netcoreapp3.1\DynaimcReporting.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<DynaimcReporting.Models.Category>
+
+@{
+    ViewBag.Title = "Report Folders";
+}
+<h2>Report Folder</h2>
+<hr />
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-2">
+            <div class="card" style="width: 18rem;">
+                <img src="~/img/folder.png" height="80" width="80" />
+                <div class="card-body">
+                    <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Name)</h5>
+                    @* @Html.ActionLink("Open", "ReportMasters/index", new { id = item.Id }, new { @class = "btn btn-primary btn-sm" })*@
+                    <a href="/reportmasters/index?id=@item.Id" class="btn btn-primary btn-sm">Open</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

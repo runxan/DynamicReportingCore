@@ -1,0 +1,33 @@
+﻿@model IEnumerable<DynaimcReporting.Models.ReportMaster>
+
+@{
+    ViewBag.Title = "Report List";
+}
+
+<h2>Report Lists</h2>
+<hr />
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-2">
+            <div class="card" style="width: 18rem;">
+                <img src="~/img/excel.png" height="80" width="80" />
+                <div class="card-body">
+                    <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Name)</h5>
+                    <p class="card-text"> @Html.DisplayFor(modelItem => item.Categories.Name)</p>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary btn-sm" })
+                    @Html.ActionLink("View Reports", "ViewReports", new { reportId = item.Id }, new { @class = "btn btn-primary btn-sm" })
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+    }
+</div>
