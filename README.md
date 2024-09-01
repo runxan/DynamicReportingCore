@@ -11,7 +11,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository.git
+git clone https://github.com/runxan/DynamicReportingCore
 cd your-repository
 Configure Database: Update the connection string in appsettings.json.
 
